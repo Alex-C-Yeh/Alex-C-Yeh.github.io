@@ -1,4 +1,4 @@
 Hello world check out my homepage!
 
 -----------------------------------------
-https://alex-c-yeh.github.io
+http://alex-c-yeh.github.io
